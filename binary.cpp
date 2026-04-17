@@ -1,9 +1,11 @@
+ // Eli Eastwood L3
+
 #include <iostream>
 using namespace std;
 
 int main() {
     int choice;
-
+   // menu and user input
     cout << "1. Decimal to Binary\n";
     cout << "2. Binary to Decimal\n";
     cout << "Enter choice: ";
