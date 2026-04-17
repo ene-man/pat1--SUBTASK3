@@ -11,6 +11,7 @@ int main() {
     cout << "Enter choice: ";
     cin >> choice;
 
+   // choice 1
     if (choice == 1) {
         int n, bin[32], i = 0;
         cout << "Enter decimal: ";
