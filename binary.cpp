@@ -27,6 +27,7 @@ int main() {
         for (int j = i - 1; j >= 0; j--)
             cout << bin[j];
     }
+    // choice 2
     else if (choice == 2) {
         string bin;
         int decimal = 0, base = 1;
