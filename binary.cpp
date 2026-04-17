@@ -14,7 +14,7 @@ int main() {
    // choice 1
     if (choice == 1) {
         int n, bin[32], i = 0;
-        cout << "Enter decimal: ";
+       cout << "Enter decimal: "; // Enter the decimal
         cin >> n;
 
         while (n > 0) {
